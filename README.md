@@ -3,7 +3,7 @@ este repositorio contiene el flow 1 de la leccion de Node Red
 
 ## Introducción
 
-El flow 1 representa el primer ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug y automatizarlo para que genere un TimeStamp cada 1 segundo. Esta acción permite demostrar el uso de la pestaña Debug.
+El flow 1 representa el primer ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug y automatizarlo para que genere un TimeStamp cada 2 segundos. Esta acción permite demostrar el uso de la pestaña Debug.
 
 ## Material Necesario
 
@@ -50,12 +50,12 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]()
+![](https://github.com/jesusbaheng/flow1/blob/main/Imagenes/Screenshot%20from%202023-05-23%2022-13-12.png?raw=true)
 
 ## Evidencias
 
-- [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7236589590008564998)
-- [YouTube (versión anterior)](https://youtu.be/8U-K6bgMQwE)
+- [TikTok]()
+
 
 # Créditos
 
